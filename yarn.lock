@@ -4573,9 +4573,9 @@ qs@6.11.0:
     side-channel "^1.0.4"
 
 quasar@^2.6.0:
-  version "2.14.5"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.14.5.tgz#49b593801bedf72b549ed639717043bab704e417"
-  integrity sha512-N+iRYoby09P9l+R5nKfA0tCPXdXJJHCPifjP8CkL/JASX5yHEjuwh7KoNiWzYLZPbsYXVuQKqwtDy0qXuXTv2g==
+  version "2.16.6"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.16.6.tgz#b022520581ee84e371a1e25b159298ee7133ebf0"
+  integrity sha512-nFFS/WniZy052wUNr0UHxc46KVB0hVg7IlBpVScxQAANQxL5uJVqaiw0z2CEM8IM+MCObXANqxHX/m7woG7zIw==
 
 querystringify@^2.1.1:
   version "2.2.0"
